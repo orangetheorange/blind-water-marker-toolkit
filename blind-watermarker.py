@@ -61,7 +61,7 @@ BLIND WATER-MARK TOOLKIT
 BY orangetheorange
 https://github.com/orangetheorange/blind-water-marker-toolkit
     
-[*] please install the required packages using: pip install -r requirements.txt
+[*] please install the required packages using: pip install blind-watermark
 [*] Only availeble for .png files
 
 _______________________________________________________________________________
