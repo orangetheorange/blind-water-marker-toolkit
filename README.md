@@ -9,7 +9,7 @@ Don't forget to install python!
 
 `git clone https://github.com/orangetheorange/blind-water-marker-toolkit/`
 
-`pip install -r requirements.txt`
+`pip install blind-watermark`
 
 
 ## Usage
